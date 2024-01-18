@@ -1,5 +1,3 @@
-Last Updated: 2023-12-22
-
 # Web Development Work
 
 Following is a collection of my web development work that is currently live and publicly accessible. This collection does not contain any of my archived work.
@@ -24,6 +22,7 @@ A website that achieves 'flow' through sweeping graphics, rounded corners, and f
 
 ## Recent Works (2020-Present)
 
+- https://fearlessdallas.com/
 - https://daviesdentistry.com
 - https://www.friscofamilydentistry.com
 - https://leibowitzdental.com
@@ -131,7 +130,6 @@ A website that achieves 'flow' through sweeping graphics, rounded corners, and f
 - https://sleepapneamckinney.com
 - https://sleepapneadfw.net
 - https://lalibertelawoffice.com
-- https://fearlessdallas.com
 - https://newhalldentalarts.com
 - https://mmcdental.com
 - https://hwbservices.com
