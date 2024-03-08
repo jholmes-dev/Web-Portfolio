@@ -1,8 +1,12 @@
 # Web Development Work
 
-Following is a collection of my web development work that is currently live and publicly accessible. This collection does not contain any of my archived work.
+Following is a collection of my static web development work that is currently live and publicly accessible. This collection does not contain any of my archived work, or private projects/tools.
 
 ## Showcase
+
+### CeCe's Place | https://cecesclinic.org/
+
+Custom SVG graphics and clip pathing create a curved experience that maintains responsiveness and speed.
 
 ### Shirley Orthodontics | https://orthosmiles4u.com/
 
@@ -15,10 +19,6 @@ A website that accomplishes a modern feel, with an optimized video banner, light
 ### Paris Dental Arts | https://pdartstx.com/
 
 Dynamic SVG morphing, and artifact transformations are the pinnacle of this unique website that strives to break out of the normal 'boxy' website feel.
-
-### Healthy Smiles Houston | https://healthysmileshouston.com/
-
-A website that achieves 'flow' through sweeping graphics, rounded corners, and fully custom cascade-type sliders.
 
 ## Recent Works (2020-Present)
 
