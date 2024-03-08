@@ -22,6 +22,7 @@ A website that achieves 'flow' through sweeping graphics, rounded corners, and f
 
 ## Recent Works (2020-Present)
 
+- https://cecesclinic.org/
 - https://fearlessdallas.com/
 - https://daviesdentistry.com
 - https://www.friscofamilydentistry.com
