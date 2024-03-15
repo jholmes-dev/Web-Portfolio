@@ -6,7 +6,7 @@ Following is a collection of my static web development work that is currently li
 
 ### CeCe's Place | https://cecesclinic.org/
 
-Custom SVG graphics and clip pathing create a curved experience that maintains responsiveness and speed.
+Responsive SVGs and clip pathing create a curved experience that maintains responsiveness and speed.
 
 ### Shirley Orthodontics | https://orthosmiles4u.com/
 
