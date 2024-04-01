@@ -6,19 +6,19 @@ Following is a collection of my static web development work that is currently li
 
 ### CeCe's Place | https://cecesclinic.org/
 
-Responsive SVGs and clip pathing create a curved experience that maintains responsiveness and speed.
+Responsive SVGs and custom path clipping create a curved experience that remains fast and mobile-friendly.
 
 ### Shirley Orthodontics | https://orthosmiles4u.com/
 
-A beautiful pediatric website with both mobile and desktop optimized SVG animations.
+A fun pediatric website with both mobile and desktop optimized SVG animations.
 
 ### Berks Oral Surgery | https://berksoralsurgery.com/
 
-A website that accomplishes a modern feel, with an optimized video banner, lightbox video effects, and custom animations throughout.
+A website that accomplishes a modern feel with an optimized video banner, lightbox video effects, and custom animations throughout.
 
 ### Paris Dental Arts | https://pdartstx.com/
 
-Dynamic SVG morphing, and artifact transformations are the pinnacle of this unique website that strives to break out of the normal 'boxy' website feel.
+Dynamic SVG morphing and artifact transformations are the pinnacle of this unique website that strives to break out of the normal 'boxy' website feel.
 
 ## Recent Works (2020-Present)
 
