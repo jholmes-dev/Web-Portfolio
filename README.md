@@ -22,7 +22,7 @@ Dynamic SVG morphing, and artifact transformations are the pinnacle of this uniq
 
 ## Recent Works (2020-Present)
 
-- https://cecesclinic.org/
+- https://stubbsfamilydds.com
 - https://fearlessdallas.com/
 - https://daviesdentistry.com
 - https://www.friscofamilydentistry.com
@@ -32,9 +32,6 @@ Dynamic SVG morphing, and artifact transformations are the pinnacle of this uniq
 - https://robertmbrownedds.com
 - https://huntsleepsolutions.com
 - https://dentalimpressionsofankeny.com
-- https://orthosmiles4u.com
-- https://berksoralsurgery.com
-- https://pdartstx.com
 - https://healthysmileshouston.com
 - https://knightdentalcare.com
 - https://wataugadental.net
@@ -74,7 +71,6 @@ Dynamic SVG morphing, and artifact transformations are the pinnacle of this uniq
 - https://pdckids.com
 - https://mansfielddental.com
 - https://lascalapizza.com
-- https://stubbsfamilydds.com
 - https://plazafamilydentistry.com
 - https://dallasamputeenetwork.org
 
